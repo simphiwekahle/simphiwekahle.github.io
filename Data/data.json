@@ -1,0 +1,19 @@
+{
+    "academics": [
+        {
+            "Institution" : "Durban University of Technology",
+            "Qualifications": [
+                "2022 - Advanced Diploma in Information and Communications Technology",
+                "2019 to 2021 - Diploma in Information and Communications Technology in Business Analysis"
+            ],
+            "High School": "Umlazi Comprehensive High School",
+            "Matric Year": "2014"
+        }
+    ],
+    "skills": [
+        "C# development", "ASP.NET Core Web APIs", "ASP.NET Core MVC",
+        ".NET MAUI", "Microsoft SQL Server", "Azure CI/CD Pipelines",
+        "Docker", "Git", "HTML", "CSS", "JavaScript", "Bootstrap",
+        "SignalR", "Entity Framework Core", "Dapper"
+    ]
+}
